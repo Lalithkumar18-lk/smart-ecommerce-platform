@@ -1,0 +1,9 @@
+﻿:root {
+  font-family: "DM Sans", Arial, sans-serif;
+  color: #25251f;
+  background: #fffefa;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button, input { font: inherit; }
