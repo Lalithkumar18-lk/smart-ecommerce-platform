@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+<rect width="100%" height="100%" fill="#f0fdf4"/>
+<path d="M250 150 L550 150 L610 470 L190 470 Z" fill="#166534"/>
+<path d="M300 150 Q400 20 500 150" fill="none" stroke="#111827" stroke-width="35"/>
+<rect x="300" y="250" width="200" height="100" rx="15" fill="#dcfce7"/>
+<text x="400" y="530" text-anchor="middle" font-family="Arial" font-size="42" fill="#111827">Laptop Backpack</text>
+</svg>
